@@ -23,6 +23,8 @@ environment:
 dependencies:
   google_fonts: ^2.0.0
   flutter_highlight: ^0.7.0
+  intl: '^0.16.1'
+  meta: '^1.1.8'
   flutter:
     sdk: flutter
 
